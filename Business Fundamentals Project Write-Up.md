@@ -2,9 +2,11 @@
 
 Detecting Suicidal Adolescents on Instagram
 
+
 **Abstract**
 
 The goal of this project was to pitch Instagram a data science solution to a societal problem on adolescent suicide attempts in the United States. Using social media platforms has become a part of adolescent life. Given a large proportion of adolescent users on Instagram, Instagram can help to detect teenagers at high risk for suicide and deliver proper mental health resources (e.g., crisis hotline or stress relief strategies) in real-time. For the goal of suicidal teenager detection, the data science solution proposed was to perform natural language processing on text content shared by teenager users on Instagram. Those results from Natural Language Processing (NLP) would need to classify into suicidal warning sign categories (i.e., talk patterns, behaviors, and moods). In order to dive into the insights and characteristics of suicidal behaviors in U.S. adolescence, I used the Youth Risk Behavior Surveillance System Prevalence data from the Centers for Disease Control and Prevention. After exploring demographic information and suicide prevalence in adolescence, several notable differences in suicidal behaviors were found. Those preliminary insights found were visualized with Tableau.
+
 
 **Design**
 
@@ -40,11 +42,13 @@ For the preliminary exploratory data analysis, I used the Youth Risk Behavior Su
 
 I cleaned the dataset, sorting geographical information (i.e., state and county names), and aggregating the prevalence data in Microsoft Excel Spreadsheet. I performed a preliminary exploratory analysis in Excel and held the visualization in Tableau. 
 
+
 **Tools**
 
 1. Microsoft Excel to clean, aggregate, explore, and analyze the data
 
 2. Tableau to visualize the preliminary findings
+
 
 **Communication**
 
